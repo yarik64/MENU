@@ -1,6 +1,6 @@
-*Whiskey
-*Jeen
-*Rum
-*Vodka
-*Absent
-*Jager
+* Whiskey
+* Jeen
+* Rum
+* Vodka
+* Absent
+* Jager
